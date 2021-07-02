@@ -6,7 +6,7 @@ import DocumentViewer from "./documentViewer";
 import axios from 'axios';
 
 const API_URL = "https://fdbxb3feqa.execute-api.us-east-2.amazonaws.com/aos-api/get-agents/";
-const API_KEY = "PMAK-60c5d7f868933100342ed4b4-b04f2fe6486d40b137e08877cbe118116a";
+const API_KEY = "";
 
 class AgentOnBoard extends Component {
   state = {
